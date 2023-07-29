@@ -53,9 +53,6 @@ We welcome contributions from the cybersecurity community to improve and expand 
 
 If you wish to contribute, please fork the repository, create a new branch for your changes, and submit a pull request. Don't forget to adhere to the project's coding guidelines and commit conventions.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and documentation for both commercial and non-commercial purposes. Refer to the `LICENSE` file for more details.
 
 ## Disclaimer
 
